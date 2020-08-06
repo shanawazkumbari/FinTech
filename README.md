@@ -2,6 +2,8 @@
 Predict whether a user subscribes to the app using FinTech app data
 
 Models used : Random forest, XG Boost, Logistic Regression , KNN classification, Decision Tree
+Accuracy on train data: 90%
+Accuracy on test data: 85%
 
 ## Bussines Problem
 The Financial Technology company (Fin-Tech Company) launch there a mobile app. This app used for financial purposes like bank loans, savings, etc. in one place. It has two versions free and premium. The free version app contains basic features and customer wants to use the premium feature then they have to pay some amount to unlock it.
