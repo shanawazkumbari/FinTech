@@ -4,6 +4,7 @@ Predict whether a user subscribes to the app using FinTech app data
 Models used : Random forest, XG Boost, Logistic Regression , KNN classification, Decision Tree
 
 Accuracy on train data: 90%
+
 Accuracy on test data: 85%
 
 ## Bussines Problem
